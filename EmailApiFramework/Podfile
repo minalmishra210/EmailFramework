@@ -1,0 +1,12 @@
+
+platform :ios, '15.0'  # Specify your desired iOS version here
+
+target 'EmailApiFramework' do
+  use_frameworks!
+  
+  # Pods for EmailApiFramework
+  pod 'Alamofire'
+  # Add other pods as needed
+end
+
+
